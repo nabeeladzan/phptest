@@ -1,0 +1,155 @@
+{
+	"0": 
+	{
+		"kategori": "4",
+		"nama": "laptop1",
+		"harga": "4000000",
+		"deskripsi": "",
+		"gambar": "produk1589853135.png",
+		"status": "1"
+	},
+	"1": 
+	{
+		"kategori": "4",
+		"nama": "laptop2",
+		"harga": "6000000",
+		"deskripsi": "",
+		"gambar": "produk1589853165.png",
+		"status": "1"
+	},
+	"2": 
+	{
+		"kategori": "4",
+		"nama": "laptop3",
+		"harga": "8000000",
+		"deskripsi": "",
+		"gambar": "produk1589853182.png",
+		"status": "1"
+	},
+	"3": 
+	{
+		"kategori": "5",
+		"nama": "handphone1",
+		"harga": "1000000",
+		"deskripsi": "",
+		"gambar": "produk1589853203.png",
+		"status": "1"
+	},
+	"4": 
+	{
+		"kategori": "5",
+		"nama": "handphone2",
+		"harga": "1500000",
+		"deskripsi": "",
+		"gambar": "produk1589853226.png",
+		"status": "1"
+	},
+	"5": 
+	{
+		"kategori": "5",
+		"nama": "handphone3",
+		"harga": "2500000",
+		"deskripsi": "",
+		"gambar": "produk1589853256.png",
+		"status": "1"
+	},
+	"6": 
+	{
+		"kategori": "6",
+		"nama": "handsfree1",
+		"harga": "50000",
+		"deskripsi": "",
+		"gambar": "produk1589853286.png",
+		"status": "1"
+	},
+	"7": 
+	{
+		"kategori": "6",
+		"nama": "handsfree2",
+		"harga": "100000",
+		"deskripsi": "",
+		"gambar": "produk1589853315.png",
+		"status": "1"
+	},
+	"8": 
+	{
+		"kategori": "6",
+		"nama": "handsfree3",
+		"harga": "150000",
+		"deskripsi": "",
+		"gambar": "produk1589853342.png",
+		"status": "1"
+	},
+	"9": 
+	{
+		"kategori": "7",
+		"nama": "pakaian pria1",
+		"harga": "100000",
+		"deskripsi": "",
+		"gambar": "produk1589853370.png",
+		"status": "1"
+	},
+	"10": 
+	{
+		"kategori": "7",
+		"nama": "pakaian pria2",
+		"harga": "150000",
+		"deskripsi": "",
+		"gambar": "produk1589853389.png",
+		"status": "1"
+	},
+	"11": 
+	{
+		"kategori": "8",
+		"nama": "pakaian wanita1",
+		"harga": "200000",
+		"deskripsi": "",
+		"gambar": "produk1589853410.png",
+		"status": "1"
+	},
+	"12": 
+	{
+		"kategori": "8",
+		"nama": "pakaian wanita2",
+		"harga": "400000",
+		"deskripsi": "",
+		"gambar": "produk1589853431.png",
+		"status": "1"
+	},
+	"13": 
+	{
+		"kategori": "9",
+		"nama": "pisang",
+		"harga": "150000",
+		"deskripsi": "",
+		"gambar": "produk1589853455.png",
+		"status": "1"
+	},
+	"14": 
+	{
+		"kategori": "9",
+		"nama": "rambutan",
+		"harga": "20000",
+		"deskripsi": "",
+		"gambar": "produk1589853479.png",
+		"status": "1"
+	},
+	"15": 
+	{
+		"kategori": "10",
+		"nama": "brokoli",
+		"harga": "30000",
+		"deskripsi": "",
+		"gambar": "produk1589853498.png",
+		"status": "1"
+	},
+	"16": 
+	{
+		"kategori": "10",
+		"nama": "sayur kol langsung dari petani terpercaya dan ternama oke mantep",
+		"harga": "40000",
+		"deskripsi": "",
+		"gambar": "produk1589853518.png",
+		"status": "1"
+	}
+}
